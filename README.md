@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello. KREXXE Technology was founded by a university student to do various projects in the fields of Front-End and Animation. <br>It has a positive attitude towards joint projects with other brands and organizations, and we are seeing you with better quality and modern projects every day.
+# 💫 What is KREXXE Technology?:
+KREXXE Technology was founded by a university student to do various projects in the fields of Front-End and Animation. <br>It has a positive attitude towards joint projects with other brands and organizations, and we are seeing you with better quality and modern projects every day.
 
 
 ## 🌐 Socials:
